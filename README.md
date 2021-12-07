@@ -1,2 +1,4 @@
 # TravelBuddy
- Capston Project
+ Capstone Project
+ 
+ 
