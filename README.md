@@ -1,7 +1,7 @@
 # TravelBuddy
  Capstone Project
  
- [Flutter Application](https://github.com/Shreeyash836Jejurkar/TravelBuddy/edit/main/README.md)
+ [Flutter Application](https://github.com/Shreeyash836Jejurkar/TravelBuddy/tree/main/app)
  
  [OCR Model](https://colab.research.google.com/drive/1oXpQviJ-WFN1lJbzUlkmGmO6nOt-Q7M8?usp=sharing)
  
